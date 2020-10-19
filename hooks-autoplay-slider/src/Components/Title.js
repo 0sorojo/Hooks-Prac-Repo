@@ -1,12 +1,12 @@
 import React from 'react';
-import { AiFillBug } from 'react-icons/ai';
+import { RiBearSmileFill } from 'react-icons/ri';
 
 const Title = () => {
   return (
     <div className='title'>
       <h2>
         <span>
-          <AiFillBug />
+          <RiBearSmileFill className='icon' />
         </span>
         Reviews
       </h2>
